@@ -4,7 +4,7 @@
 
 **Exercise Overview**
 
-* Postulate "On-the-Fly: Legal Data InquiryL (Imagine We Want to Know "Who Published [Consumer Complaints?](http://data.consumerfinance.gov/api/views.json))
+* Postulate "On-the-Fly: Legal Data Inquiry (Imagine We Want to Know the Owner of [Consumer Complaints?](http://data.consumerfinance.gov/api/views.json))
 * Copy & Paste First Code Snippet of [JavaScript Script](Complaints.js) and Repeat for Each Snippet
 * See/Copy the Real-Time Web-Based Data API Query Results in Your Browser Console
 * Maintain and Share Your Script on GitHub so You Can Re-Use and Improve it Over Time
