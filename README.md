@@ -4,6 +4,7 @@
 
 > Standard Readme Style
 
+* GitHub Pages static site for this repo: [ https://civics.github.io/GitLawNow](https://civics.github.io/GitLawNow)
 This README file is the first entry point to the code in this GitHub Repository. This repository contains:
 
 1. The file named [Complaints.js](Complaints.js) which contains the JavaScript code we will use and work with.
