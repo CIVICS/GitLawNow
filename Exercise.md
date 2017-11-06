@@ -8,13 +8,17 @@
 
 * Go to [Complaints.JS](https://github.com/CIVICS/GitLawNow/blob/master/Complaints.js)
 
-* Click the "History" button on upper right area of screen
+---------
 
-<img width="818" alt="screen shot 2017-11-06 at 4 46 25 pm" src="https://user-images.githubusercontent.com/2357755/32465627-246ca984-c312-11e7-9f32-c1e2b4868e6e.png">
+* Click the "History" button on upper right area of screen.  It looks like the screenshot fragment below.
 
-* This displays the history of "commits" to this file (each "version" of the file has a hash digest as part of a unique URL)
+<img width="544" alt="screen shot 2017-11-06 at 4 49 08 pm" src="https://user-images.githubusercontent.com/2357755/32465742-7e960784-c312-11e7-90a8-01d401d6467d.png">
 
-<img width="1264" alt="screen shot 2017-11-06 at 4 41 45 pm" src="https://user-images.githubusercontent.com/2357755/32465446-798fc2b2-c311-11e7-9cf9-f49a21e3dbec.png"
+------------
+
+* This displays the history of "commits" to this file (each "version" of the file has a hash digest as part of a unique URL).  It looks like the screenshot below.
+
+<img width="544" alt="screen shot 2017-11-06 at 4 41 45 pm" src="https://user-images.githubusercontent.com/2357755/32465446-798fc2b2-c311-11e7-9cf9-f49a21e3dbec.png"
 
 
 * Open up the console of your browser.
