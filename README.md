@@ -19,7 +19,7 @@ This README file is the first entry point to the code in this GitHub Repository.
 * Open Console on Browser (on Mac use "Alt-Cmd-J" on Windows use "Control-Shift-J")
 * Copy & Paste First Code Snippet of [JavaScript Script](Complaints.js) and Repeat for Each Snippet
 * Show How to Make Pull Requests and Check History to Keep Script Up to Date on GitHub
-* Relation to [Computational Law Challenge](https://youtu.be/-pboxAUgiUA)
+* Relation of JS for Identity+Personal Data to [Computational Law Challenge](https://youtu.be/-pboxAUgiUA)
 
 ## License
 
