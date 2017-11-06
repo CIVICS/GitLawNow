@@ -18,7 +18,7 @@
 
 * This displays the history of "commits" to this file (each "version" of the file has a hash digest as part of a unique URL).  It looks like the screenshot below.
 
-<img width="544" alt="screen shot 2017-11-06 at 4 41 45 pm" src="https://user-images.githubusercontent.com/2357755/32465446-798fc2b2-c311-11e7-9cf9-f49a21e3dbec.png"
+<img width="544" alt="screen shot 2017-11-06 at 4 41 45 pm" src="https://user-images.githubusercontent.com/2357755/32465446-798fc2b2-c311-11e7-9cf9-f49a21e3dbec.png">
 
 
 * Open up the console of your browser.
