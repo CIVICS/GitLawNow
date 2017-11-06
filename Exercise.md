@@ -60,7 +60,7 @@
 
 * Let's say you want to get a list of "owner" names from this data dump.  You can achieve this with the slightly modified script in the next commit.  Copy-paste the JavaScript from the next commit (with comment "get a list of owner names") at: [https://github.com/CIVICS/GitLawNow/blob/1352d5bd3d0e5f0a2acaaf92723e39ec4e8fb2f2/Complaints.js](https://github.com/CIVICS/GitLawNow/blob/1352d5bd3d0e5f0a2acaaf92723e39ec4e8fb2f2/Complaints.js)
 
-* **Sort Owner Names** 
+**Sort Owner Names** 
 
 * Let's say you want to sort the list of owner names names returned from the prior script.  You can achieve this with the slightly further modified script in the next commit.  opy-paste the JavaScript from the next commit (with comment "sort owner names") at: [https://github.com/CIVICS/GitLawNow/blob/3e53abda134f803565cef375fa848e17d1b469bf/Complaints.js](https://github.com/CIVICS/GitLawNow/blob/3e53abda134f803565cef375fa848e17d1b469bf/Complaints.js)
 
