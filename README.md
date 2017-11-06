@@ -14,12 +14,11 @@ This README file is the first entry point to the code in this GitHub Repository.
 
 ## Table of Contents
 
-* Link to MITLegalForum
-* Open Console on Browser
-* Postulate On-the-Fly Legal Data Inquiry
-* Copy & Paste First Code Snippet
-* Repeat for Each Snippet
-* Mention how to Save Data from Console
+* Link to [MITLegalForum](http://MITLegalForum)
+* Postulate On-the-Fly Legal Data Inquiry (Who Published Consumer Complaints?)
+* Open Console on Browser (on Mac use "Alt-Cmd-J" on Windows use "Control-Shift-J")
+* Copy & Paste First Code Snippet of [JavaScript Script](Complaints.js) and Repeat for Each Snippet
+* Show How to Make Pull Requests to Keep Script Up to Date on GitHub
 * Relation to Computational Law Challenge
 
 ## License
