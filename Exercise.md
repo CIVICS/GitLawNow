@@ -23,7 +23,7 @@
 
 * Open up the console of your browser.
 
-* Copy-paste the JavaScript at: [https://github.com/CIVICS/GitLawNow/blob/55f3cf58674a050fab23f9b976b4a3ff4648b04f/Complaints.js](https://github.com/CIVICS/GitLawNow/blob/55f3cf58674a050fab23f9b976b4a3ff4648b04f/Complaints.js)
+* Copy-paste the JavaScript from the earliest commit by [Christian Smith](https://github.com/christiansmith) (with commit comment "get some json data from a url") at: [https://github.com/CIVICS/GitLawNow/blob/55f3cf58674a050fab23f9b976b4a3ff4648b04f/Complaints.js](https://github.com/CIVICS/GitLawNow/blob/55f3cf58674a050fab23f9b976b4a3ff4648b04f/Complaints.js)
 
 * Then copy-paste the JavaScript at: [https://github.com/CIVICS/GitLawNow/blob/4954d16e0a8d07905630f458525119edc9453620/Complaints.js](https://github.com/CIVICS/GitLawNow/blob/4954d16e0a8d07905630f458525119edc9453620/Complaints.js)
 
