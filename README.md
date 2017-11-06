@@ -14,14 +14,13 @@ This README file is the first entry point to the code in this GitHub Repository.
 
 ## Table of Contents
 
-Under Construction!
-
-
-- [Background](#background)
-- [Install](#install)
-- [License](#license)
-
-## Background
+* Link to MITLegalForum
+* Open Console on Browser
+* Postulate On-the-Fly Legal Data Inquiry
+* Copy & Paste First Code Snippet
+* Repeat for Each Snippet
+* Mention how to Save Data from Console
+* Relation to Computational Law Challenge
 
 ## License
 
