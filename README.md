@@ -14,7 +14,7 @@ This README file is the first entry point to the code in this GitHub Repository.
 
 ## Table of Contents
 
-* Link to [MITLegalForum](http://MITLegalForum)
+* Link to [MITLegalForum](http://mitlegalforum.org)
 * Postulate On-the-Fly Legal Data Inquiry (Who Published [Consumer Complaints?](http://data.consumerfinance.gov/api/views.json))
 * Open Console on Browser (on Mac use "Alt-Cmd-J" on Windows use "Control-Shift-J")
 * Copy & Paste First Code Snippet of [JavaScript Script](Complaints.js) and Repeat for Each Snippet
