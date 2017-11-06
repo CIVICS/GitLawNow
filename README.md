@@ -23,4 +23,4 @@ This README file is the first entry point to the code in this GitHub Repository.
 
 ## License
 
-[MIT](LICENSE) © 
+[MIT](LICENSE) © MIT Open Source License
