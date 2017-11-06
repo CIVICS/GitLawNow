@@ -15,10 +15,10 @@ This README file is the first entry point to the code in this GitHub Repository.
 ## Table of Contents
 
 * Link to [MITLegalForum](http://MITLegalForum)
-* Postulate On-the-Fly Legal Data Inquiry (Who Published Consumer Complaints?)
+* Postulate On-the-Fly Legal Data Inquiry (Who Published [Consumer Complaints?](http://data.consumerfinance.gov/api/views.json))
 * Open Console on Browser (on Mac use "Alt-Cmd-J" on Windows use "Control-Shift-J")
 * Copy & Paste First Code Snippet of [JavaScript Script](Complaints.js) and Repeat for Each Snippet
-* Show How to Make Pull Requests to Keep Script Up to Date on GitHub
+* Show How to Make Pull Requests and Check History to Keep Script Up to Date on GitHub
 * Relation to [Computational Law Challenge](https://youtu.be/-pboxAUgiUA)
 
 ## License
