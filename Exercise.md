@@ -33,7 +33,7 @@
 
 **Go to a Web Page** 
 
-* Go to a web page at an "http" (not an "https") address to do this exercise.  A new security policy restricting different types of content on web pages may make this exercise impossible on some webpages.  It appears that pages addressed at https prohibit this use of JavaScript due to the mixed types of data introduced by the script.  You can go to http://MITLegalForum.org to use the JavaScript for this exercise because the page is accessible at http not https.  Alternatively, you could pull up the console directly from the data.gov page where your raw data results used for this exercise are displayed, here: [http://data.consumerfinance.gov/api/views.json](http://data.consumerfinance.gov/api/views.json).
+* Go to a web page at an "http" (not an "https") address to do this exercise.  A new security policy restricting different types of content on web pages may make this exercise impossible on some webpages.  It appears that pages addressed at https prohibit this use of JavaScript due to the mixed types of data introduced by the script.  You can go to [http://MITLegalForum.org](http://MITLegalForum.org) to use the JavaScript for this exercise because the page is accessible at http not https.  Alternatively, you could pull up the console directly from the data.gov page where your raw data results used for this exercise are displayed, here: [http://data.consumerfinance.gov/api/views.json](http://data.consumerfinance.gov/api/views.json).
 
 **Open the Console** 
 
